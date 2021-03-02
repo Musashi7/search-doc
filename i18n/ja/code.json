@@ -1,0 +1,26 @@
+{
+  "PSJ Document": {
+    "message": "PSJドキュメント",
+    "description": "The homepage welcome message"
+  },
+  "The tagline of my site": {
+    "message": "私のサイトのキャッチフレーズ",
+    "description": "The homepage welcome message"
+  },
+  "Easy to Use": {
+    "message": "使いやすい",
+    "description": "The homepage welcome message"
+  },
+  "Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.": {
+    "message": "Docusaurusは、簡単にインストールしてWebサイトをすばやく稼働させるために使用できるように、ゼロから設計されました。",
+    "description": "The homepage welcome message"
+  },
+  "Focus on What Matters": {
+    "message": "重要なことに焦点を当てる",
+    "description": "The homepage welcome message"
+  },
+  "Powered by React": {
+    "message": "Reactを搭載",
+    "description": "The homepage welcome message"
+  }
+}
