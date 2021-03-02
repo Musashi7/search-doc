@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -8,6 +8,7 @@
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
+	"deploy-gh-pages": "cmd /C \"set \"GIT_USER=Musashi7\" && yarn deploy\"",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear"
   },
